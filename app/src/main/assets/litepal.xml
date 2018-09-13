@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="eurus"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.nosilver.eurus.db.Province"/>
+        <mapping class="com.example.nosilver.eurus.db.City"/>
+        <mapping class="com.example.nosilver.eurus.db.County"/>
+    </list>
+</litepal>
